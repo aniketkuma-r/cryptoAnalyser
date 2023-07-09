@@ -1,0 +1,17 @@
+.currency-converter{
+    background-color: rgb(230,223,211);
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0/0.2);
+    text-align: center;  
+}
+button{
+    border: none;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: coral;
+}

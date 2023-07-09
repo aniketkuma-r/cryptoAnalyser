@@ -1,0 +1,15 @@
+.news-feed{
+    background-color: rgb(204,204,231);
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 0 3px 3px rgb(0 0 0/0.2);
+    max-width: 400px;
+    
+  }
+li{
+  padding: 5px;
+  margin: 5px;
+}
+h2{
+  text-align: center;
+}
