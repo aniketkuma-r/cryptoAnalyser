@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptoAnalyser/static/css/main.4db1dba2.css",
+    "main.js": "/cryptoAnalyser/static/js/main.53f79935.js",
+    "index.html": "/cryptoAnalyser/index.html",
+    "main.4db1dba2.css.map": "/cryptoAnalyser/static/css/main.4db1dba2.css.map",
+    "main.53f79935.js.map": "/cryptoAnalyser/static/js/main.53f79935.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4db1dba2.css",
+    "static/js/main.53f79935.js"
+  ]
+}
